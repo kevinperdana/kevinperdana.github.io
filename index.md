@@ -1,24 +1,6 @@
 # Modul Perkuliahan
 
-## Android
 
-
-## Android Lanjut
-
-
-## Arsitektur Sistem Informasi
-
-
-## PHP (Native)
-
-
-## Python
-
-
-## Python (Django)
-
-
-## Python (Data Science)
 
 
 
