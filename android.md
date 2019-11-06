@@ -12,4 +12,4 @@
 
 [![](https://img.shields.io/badge/Modul%206-Download%20Disini-brightgreen?style=for-the-badge&logo=android&logoColor=FFF)](https://github.com/kevinperdana/Android/raw/master/MATERI%206%20-%20Baru.pdf)
 
-[![](https://img.shields.io/badge/Modul%207-Download%20Disini-brightgreen?style=for-the-badge&logo=android&logoColor=FFF)](https://github.com/kevinperdana/Android/blob/master/MATERI%207%20-%20Baru.pdf)
+[![](https://img.shields.io/badge/Modul%207-Download%20Disini-brightgreen?style=for-the-badge&logo=android&logoColor=FFF)](https://github.com/kevinperdana/Android/raw/master/MATERI%207%20-%20Baru.pdf)
