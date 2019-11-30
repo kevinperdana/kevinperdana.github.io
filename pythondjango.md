@@ -7,3 +7,5 @@
 [![](https://img.shields.io/badge/Modul%202-Download%20Disini-informational?style=for-the-badge&logo=django&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/3.%20Python%20Django%20-%20Modul%202.pdf)
 
 [![](https://img.shields.io/badge/Modul%203-Download%20Disini-informational?style=for-the-badge&logo=django&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/4.%20Python%20Django%20-%20Modul%203.pdf)
+
+> [![](https://img.shields.io/badge/Image%20Assets%20Modul%203-Download%20Disini-red?style=for-the-badge&logo=pocket&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/Assets%20Website.rar)
