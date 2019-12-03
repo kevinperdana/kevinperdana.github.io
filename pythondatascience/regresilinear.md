@@ -10,6 +10,6 @@ Analisis Regresi Liniar adalah metode statistika yang digunakan untuk membentuk 
 <img src="/pythondatascience/images/RegresiLinear6.jpg?raw=true"/>
 <img src="/pythondatascience/images/RegresiLinear7.jpg?raw=true"/>
 
-**Implementasi dengan Python**
+### Implementasi dengan Python
 <img src="/pythondatascience/images/RegresiLinearCode1.jpg?raw=true"/>
 <img src="/pythondatascience/images/RegresiLinearCode3.jpg?raw=true"/>
