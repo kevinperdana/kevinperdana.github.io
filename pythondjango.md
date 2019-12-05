@@ -9,3 +9,7 @@
 [![](https://img.shields.io/badge/Modul%203-Download%20Disini-informational?style=for-the-badge&logo=django&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/4.%20Python%20Django%20-%20Modul%203.pdf)
 
 > [![](https://img.shields.io/badge/Image%20Assets%20Modul%203-Download%20Disini-red?style=for-the-badge&logo=pocket&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/Assets%20Website.rar)
+
+[![](https://img.shields.io/badge/Modul%204-Download%20Disini-informational?style=for-the-badge&logo=django&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/5.%20Python%20Django%20-%20Modul%204.pdf)
+
+> [![](https://img.shields.io/badge/Bootstrap%20Modul%204-Download%20Disini-red?style=for-the-badge&logo=pocket&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/blob/master/bootstrap-4.3.1-dist.rar)
