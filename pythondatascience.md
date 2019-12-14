@@ -1,7 +1,12 @@
 # Python (Data Science)
 
-## Materi Visualisasi Data
-### Dalam Perbaikan
+## Visualisasi Data : Pandas DataFrame
+[![](https://img.shields.io/badge/Materi-In%20Progress-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](#)
+
+***
+
+## Visualisasi Data : Matplotlib
+[![](https://img.shields.io/badge/Materi-In%20Progress-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](#)
 
 ***
 
