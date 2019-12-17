@@ -16,3 +16,7 @@ Analisis Regresi Linear adalah metode statistika yang digunakan untuk membentuk 
 ### Implementasi dengan Python
 <img src="/pythondatascience/images/RegresiLinearCode1.jpg?raw=true"/>
 <img src="/pythondatascience/images/RegresiLinearCode3.jpg?raw=true"/>
+
+### Import Data CSV dengan 1 Variabel (Luas) dan Export Kembali Menjadi File CSV
+<img src="/pythondatascience/images/RegresiLinear8.jpg?raw=true"/>
+<img src="/pythondatascience/images/RegresiLinear9.jpg?raw=true"/>
