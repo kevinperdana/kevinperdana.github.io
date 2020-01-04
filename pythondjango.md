@@ -17,3 +17,7 @@
 [![](https://img.shields.io/badge/Modul%205-Download%20Disini-informational?style=for-the-badge&logo=django&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/6.%20Python%20Django%20-%20Modul%205.pdf)
 
 > [![](https://img.shields.io/badge/Mysqlclient%20Modul%205-Download%20Disini-red?style=for-the-badge&logo=pocket&logoColor=FFF)](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
+
+[![](https://img.shields.io/badge/Modul%206-Download%20Disini-informational?style=for-the-badge&logo=django&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/7.%20Python%20Django%20-%20Modul%206.pdf)
+
+> [![](https://img.shields.io/badge/Image%20Assets%20Modul%206-Download%20Disini-red?style=for-the-badge&logo=pocket&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/Assets%20Website%202.rar)
