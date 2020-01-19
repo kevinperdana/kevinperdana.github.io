@@ -10,7 +10,7 @@
 
 ***
 
-## Regresi Linear : Studi Kasus Prediksi Harga Rumah
+## Prediksi Harga Rumah dengan Regresi Linear
 
 <img src="/pythondatascience/images/Thumbnail.jpg?raw=true"/>
 
