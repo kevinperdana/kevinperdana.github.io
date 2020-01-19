@@ -1,4 +1,4 @@
-## Regresi Linear : Studi Kasus Prediksi Harga Rumah
+## Prediksi Harga Rumah dengan Regresi Linear (Satu Variabel)
 
 ### Output
 <img src="/pythondatascience/images/RegresiLinear0.jpg?raw=true"/>
