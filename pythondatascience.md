@@ -25,3 +25,11 @@
 [![](https://img.shields.io/badge/Materi%20dan%20Implementasi-Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/regresilinearmv)
 
 ***
+
+## Prediksi Pembeli Asuransi dengan Regresi Logistik
+
+<img src="/pythondatascience/images/RegresiLogistikThumbnail.jpg?raw=true"/>
+
+[![](https://img.shields.io/badge/Materi%20dan%20Implementasi-Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/regresilogistik)
+
+***
