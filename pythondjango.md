@@ -25,3 +25,5 @@
 [![](https://img.shields.io/badge/Modul%207-Download%20Disini-informational?style=for-the-badge&logo=django&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/8.%20Python%20Django%20-%20Modul%207.pdf)
 
 [![](https://img.shields.io/badge/Modul%208-Download%20Disini-informational?style=for-the-badge&logo=django&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/9.%20Python%20Django%20-%20Modul%208.pdf)
+
+[![](https://img.shields.io/badge/Modul%209-Download%20Disini-informational?style=for-the-badge&logo=django&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/10.%20Python%20Django%20-%20Modul%209.pdf)
