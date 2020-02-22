@@ -10,19 +10,19 @@
 
 ***
 
-## Prediksi Harga Rumah dengan Regresi Linear (Satu Variabel)
+## Machine Learning : Prediksi Harga Rumah dengan Regresi Linear (Satu Variabel)
 
 [![](https://img.shields.io/badge/Materi%20dan%20Implementasi-Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/regresilinear)
 
 ***
 
-## Prediksi Harga Rumah dengan Regresi Linear (Multi Variabel)
+## Machine Learning : Prediksi Harga Rumah dengan Regresi Linear (Multi Variabel)
 
 [![](https://img.shields.io/badge/Materi%20dan%20Implementasi-Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/regresilinearmv)
 
 ***
 
-## Prediksi Pembeli Asuransi dengan Regresi Logistik
+## Machine Learning : Prediksi Pembeli Asuransi dengan Regresi Logistik
 
 [![](https://img.shields.io/badge/Materi%20dan%20Implementasi-Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/regresilogistik)
 
