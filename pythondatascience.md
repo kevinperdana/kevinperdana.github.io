@@ -27,3 +27,9 @@
 [![](https://img.shields.io/badge/Materi%20dan%20Implementasi-Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/regresilogistik)
 
 ***
+
+## Machine Learning : Prediksi Penumpang yang Selamat di Kapal Titanic dengan Regresi Logistik dan K-Nearest Neighbors
+
+[![](https://img.shields.io/badge/Materi%20dan%20Implementasi-Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/regresilogistikdanknn)
+
+***
