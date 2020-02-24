@@ -1,4 +1,4 @@
-## Prediksi Harga Rumah dengan Regresi Linear (Satu Variabel)
+## Machine Learning : Prediksi Harga Rumah dengan Regresi Linear (Satu Variabel)
 
 ### Output
 <img src="/pythondatascience/images/RegresiLinear0.jpg?raw=true"/>
