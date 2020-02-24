@@ -1,4 +1,4 @@
-## Prediksi Pembeli Asuransi dengan Regresi Logistik
+## Machine Learning : Prediksi Pembeli Asuransi dengan Regresi Logistik
 
 <img src="/pythondatascience/images/RegresiLogistik1.jpg?raw=true"/>
 
