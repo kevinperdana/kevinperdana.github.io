@@ -1,4 +1,4 @@
-## Prediksi Harga Rumah dengan Regresi Linear (Multi Variabel)
+## Machine Learning : Prediksi Harga Rumah dengan Regresi Linear (Multi Variabel)
 
 Memprediksi harga rumah dengan variabel luas rumah, banyaknya kamar tidur, dan kamar mandi.
 
