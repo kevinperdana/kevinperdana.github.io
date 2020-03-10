@@ -36,6 +36,14 @@
 
 ## Deep Learning : Pengenalan Anjing dan Kucing dengan TensorFlow dan Arsitektur Convolutional Neural Network
 
-[![](https://img.shields.io/badge/Materi%20dan%20Implementasi-Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/anjingkucingtensorflowcnn)
+[![](https://img.shields.io/badge/Penyakit%20Jantung-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/anjingkucingtensorflowcnn)
+
+***
+
+## Kumpulan Dataset
+
+[![](https://img.shields.io/badge/Penyakit%20Diabetes-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/diabetes.csv)
+
+[![](https://img.shields.io/badge/Penyakit%20Jantung-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/heart.csv)
 
 ***
