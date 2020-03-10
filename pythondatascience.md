@@ -42,8 +42,8 @@
 
 ## Kumpulan Dataset
 
-[![](https://img.shields.io/badge/Penyakit%20Diabetes-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/diabetes.csv)
+[![](https://img.shields.io/badge/Penyakit%20Diabetes-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/pima-indians-diabetes-database.zip)
 
-[![](https://img.shields.io/badge/Penyakit%20Jantung-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/heart.csv)
+[![](https://img.shields.io/badge/Penyakit%20Jantung-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/heart-disease-uci.zip)
 
 ***
