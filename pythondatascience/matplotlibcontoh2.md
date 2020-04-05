@@ -8,4 +8,4 @@ Save as pada Browser untuk menyimpan file CSV.
 ***
 
 ### Materi
-<img src="/pythondatascience/images/MatplotlibImportCSVContoh2.jpg?raw=true"/>
+<img src="/pythondatascience/images/MatplotlibImportCSVContoh2OK.jpg?raw=true"/>
