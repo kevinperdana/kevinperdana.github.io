@@ -14,3 +14,9 @@
 [![](https://img.shields.io/badge/Materi%20dan%20Implementasi-Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/matplotlibcontoh2)
 
 ***
+
+## Machine Learning : Prediksi Harga Rumah dengan Regresi Linear (Satu Variabel)
+
+[![](https://img.shields.io/badge/Materi%20dan%20Implementasi-Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/regresilinear)
+
+***
