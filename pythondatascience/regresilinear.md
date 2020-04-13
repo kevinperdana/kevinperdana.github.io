@@ -20,6 +20,15 @@ Analisis Regresi Linear adalah metode statistika yang digunakan untuk membentuk 
 <img src="/pythondatascience/images/RegresiLinear6.jpg?raw=true"/>
 <img src="/pythondatascience/images/RegresiLinear7.jpg?raw=true"/>
 
+***
+
+### Download Dataset Data Rumah
+[![](https://img.shields.io/badge/Data%20Spotify-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/datarumah.csv)
+
+Save as pada Browser untuk menyimpan file CSV.
+
+***
+
 ### Implementasi dengan Python
 <img src="/pythondatascience/images/RegresiLinearCode1.jpg?raw=true"/>
 
