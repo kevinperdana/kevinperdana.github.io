@@ -5,7 +5,7 @@
 
 Machine Learning adalah cabang aplikasi dari Artificial Intelligence (Kecerdasan Buatan) yang fokus pada pengembangan sebuah sistem yang mampu belajar "sendiri" tanpa harus berulang kali di program oleh manusia.
 
-Aplikasi Machine Learning membutuhkan Data sebagai bahan belajar (training) sebelum mengeluarkan output. Aplikasi sejenis ini juga biasanya berada dalam domain spesifik alias tidak bisa diterapkan secara general untuk semua permasalahan. 
+Aplikasi Machine Learning membutuhkan data sebagai bahan belajar (training) sebelum mengeluarkan output. Aplikasi sejenis ini juga biasanya berada dalam domain spesifik alias tidak bisa diterapkan secara general untuk semua permasalahan. 
 
 ### Output Debug
 <img src="/pythondatascience/images/RegresiLinear0.jpg?raw=true"/>
