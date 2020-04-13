@@ -25,3 +25,6 @@ Analisis Regresi Linear adalah metode statistika yang digunakan untuk membentuk 
 
 ### Output
 <img src="/pythondatascience/images/RegresiLinearCode3.jpg?raw=true"/>
+
+### Kesimpulan
+Dari implementasi diatas, bahwa diketahui luas rumah 138m2, model menetapkan harga rumah sebesar Rp.154.456.042
