@@ -23,7 +23,7 @@ Analisis Regresi Linear adalah metode statistika yang digunakan untuk membentuk 
 ***
 
 ### Download Dataset Data Rumah
-[![](https://img.shields.io/badge/Data%20Spotify-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/datarumah.csv)
+[![](https://img.shields.io/badge/Data%20Rumah-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/datarumah.csv)
 
 Save as pada Browser untuk menyimpan file CSV.
 
