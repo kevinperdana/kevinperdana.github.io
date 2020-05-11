@@ -26,3 +26,10 @@
 [![](https://img.shields.io/badge/Materi%20dan%20Implementasi-Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/regresilogistik)
 
 ***
+
+## Download Dataset
+
+[![](https://img.shields.io/badge/Diabetes-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/pima-indians-diabetes-database.zip)
+[![](https://img.shields.io/badge/Jantung-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/heart-disease-uci.zip)
+
+***
