@@ -37,7 +37,3 @@ Save as pada Browser untuk menyimpan file CSV.
 
 ### Kesimpulan
 Dari implementasi diatas, bahwa model sudah belajar berdasarkan datarumah.csv. Dan dilakukan input apabila luas rumah 138m2, model menetapkan harga rumah sebesar Rp.154.456.042
-
-### Import Data CSV dengan 1 Variabel (Luas) dan Export Kembali Menjadi File CSV
-<img src="/pythondatascience/images/RegresiLinear8.jpg?raw=true"/>
-<img src="/pythondatascience/images/RegresiLinear9.jpg?raw=true"/>
