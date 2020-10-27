@@ -28,27 +28,4 @@
 
 [![](https://img.shields.io/badge/Modul%209-Download%20Disini-informational?style=for-the-badge&logo=django&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/10.%20Python%20Django%20-%20Modul%209.pdf)
 
-***
-## Source Code UAS
 
-Copy dan paste project ini ke folder **Virtual Env** Anda. Bisa langsung di-*runserver* karena memakai database sqlite yang sudah ter-*include* dengan projectnya. Password superuser semua project, **Username : kevin, Password : kevin123**
-
-**Sistem Informasi (Kelas A) :**
-
-Paket A : Aplikasi Pendaftaran Sertifikasi
-
-[![](https://img.shields.io/badge/Download-Disini-red?style=for-the-badge&logo=pocket&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/SI%20A%20PAKET%20A.rar)
-
-Paket B : Aplikasi Penampungan Saran untuk Dosen
-
-[![](https://img.shields.io/badge/Download-Disini-red?style=for-the-badge&logo=pocket&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/SI%20A%20PAKET%20B.rar)
-
-**Sistem Informasi (Kelas B) :**
-
-Paket A : Aplikasi Diary
-
-[![](https://img.shields.io/badge/Download-Disini-red?style=for-the-badge&logo=pocket&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/SI%20B%20PAKET%20A.rar)
-
-Paket B : Aplikasi Pendaftaran Mahasiswa Baru
-
-[![](https://img.shields.io/badge/Download-Disini-red?style=for-the-badge&logo=pocket&logoColor=FFF)](https://github.com/kevinperdana/Python-Django/raw/master/SI%20B%20PAKET%20B.rar)
