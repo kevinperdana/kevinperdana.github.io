@@ -16,7 +16,7 @@ Save as pada Browser untuk menyimpan file CSV.
 
 ***
 
-### Implementasi dengan Pythonnn
+### Implementasi dengan Python
 <img src="/pythondatascience/images/RegresiLogistik6.png?raw=true"/>
 
 ### Kesimpulan
