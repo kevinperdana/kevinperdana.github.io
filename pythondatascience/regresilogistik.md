@@ -17,10 +17,7 @@ Save as pada Browser untuk menyimpan file CSV.
 ***
 
 ### Implementasi dengan Python
-<img src="/pythondatascience/images/RegresiLogistik4.jpg?raw=true"/>
-
-### Output
-<img src="/pythondatascience/images/RegresiLogistik5.jpg?raw=true"/>
+<img src="/pythondatascience/images/RegresiLogistik6.png?raw=true"/>
 
 ### Kesimpulan
 Dari implementasi diatas, bahwa model sudah belajar berdasarkan dataset dataasuransi.csv. Dan dilakukan input apabila umur 60, model menetapkan bahwa pada umur tersebut orang mau membeli asuransi. Sehingga model ini dapat menjadi acuan untuk perusahaan asuransi dalam menetapkan pasarnya ke umur yang mendekati angka 60-an. Tapi dalam praktek sebagai pendukung keputusan perusahaan, dibutuhkan dataset yang lebih kompleks.
