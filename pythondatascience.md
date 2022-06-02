@@ -37,6 +37,8 @@
 
 [![](https://img.shields.io/badge/Diabetes-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/pima-indians-diabetes-database.zip)
 [![](https://img.shields.io/badge/Jantung-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/heart-disease-uci.zip)
+[![](https://img.shields.io/badge/Cloth%20Data-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/cloth_data.csv)
+
 [![](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/cloth_data.csv)
 
 ***
