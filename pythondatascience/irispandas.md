@@ -1,4 +1,4 @@
-## Olah Data Iris Dataset : Pandas DataFramea
+## Olah Data Iris Dataset : Pandas DataFrame
 
 ### Import File
 <img src="/pythondatascience/images/olahdatairis1.png?raw=true"/>
