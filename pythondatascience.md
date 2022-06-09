@@ -1,6 +1,6 @@
 # Python (Data Science)
 
-## Olah Data Iris Dataset : Pandas DataFramedd
+## Olah Data Iris Dataset : Pandas DataFrame
 [![](https://img.shields.io/badge/Materi-Lihat%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/irispandas)
 
 ***
