@@ -5,6 +5,11 @@
 
 ***
 
+## Olah Data Iris Dataset (Unclean) : Pandas DataFrame
+[![](https://img.shields.io/badge/Materi-Lihat%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/irisuncleanpandas)
+
+***
+
 ## Visualisasi Data : Pandas DataFrame
 [![](https://img.shields.io/badge/Materi-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/7.%20Python%20-%20Modul%20Data%20Science%201.pdf)
 
@@ -44,5 +49,6 @@
 [![](https://img.shields.io/badge/Jantung-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/heart-disease-uci.zip)
 [![](https://img.shields.io/badge/Cloth%20Data-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/cloth_data.csv)
 [![](https://img.shields.io/badge/Iris%20Dataset-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/iris.csv)
+[![](https://img.shields.io/badge/Iris%20Unclean%20Dataset-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/iris_unclean.csv)
 
 ***
