@@ -10,6 +10,11 @@
 
 ***
 
+## Data Visualization Iris
+[![](https://img.shields.io/badge/Materi-Lihat%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/datavisualizationiris)
+
+***
+
 ## Visualisasi Data : Pandas DataFrame
 [![](https://img.shields.io/badge/Materi-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/7.%20Python%20-%20Modul%20Data%20Science%201.pdf)
 
