@@ -55,5 +55,6 @@
 [![](https://img.shields.io/badge/Cloth%20Data-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/cloth_data.csv)
 [![](https://img.shields.io/badge/Iris%20Dataset-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/iris.csv)
 [![](https://img.shields.io/badge/Iris%20Unclean%20Dataset-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/iris_unclean.csv)
+[![](https://img.shields.io/badge/Car%20Price%20Assignment%20Dataset-Download%20Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://github.com/kevinperdana/kevinperdana.github.io/raw/master/pythondatascience/CarPrice_Assignment.csv)
 
 ***
