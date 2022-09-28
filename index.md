@@ -7,6 +7,9 @@
 ## Android Lanjut
 [![](https://img.shields.io/badge/Lihat%20Daftar%20Modul-Disini-brightgreen?style=for-the-badge&logo=android&logoColor=FFF)](androidlanjut)
 
+## Cloud Computing
+[![](https://img.shields.io/badge/Lihat%20Daftar%20Modul-Disini-F3702A?style=for-the-badge&logo=iCloud&logoColor=FFF)](cloudcomputing)
+
 ## PHP (Native)
 [![](https://img.shields.io/badge/Lihat%20Daftar%20Modul-Disini-FF69B4?style=for-the-badge&logo=php&logoColor=FFF)](phpnative)
 
