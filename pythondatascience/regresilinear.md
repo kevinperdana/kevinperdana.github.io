@@ -29,8 +29,3 @@ Save as pada Browser untuk menyimpan file CSV.
 
 ***
 
-### Implementasi dengan Python. Zoom browser Anda agar dapat melihat kode dengan jelas.
-<img src="/pythondatascience/images/RegresiLinearCode4.jpg?raw=true"/>
-
-### Kesimpulan
-Dari implementasi diatas, bahwa model sudah belajar berdasarkan datarumah.csv. Dan dilakukan input apabila luas rumah 138m2, model menetapkan harga rumah sebesar Rp.154.456.042
