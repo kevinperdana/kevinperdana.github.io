@@ -48,6 +48,12 @@
 
 ***
 
+## Machine Learning : Prediksi Penumpang yang Selamat di Kapal Titanic dengan Regresi Logistik dan K-Nearest Neighbors
+
+[![](https://img.shields.io/badge/Materi%20dan%20Implementasi-Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/regresilogistikdanknn)
+
+***
+
 ## Deep Learning : Pengenalan Gambar Batu, Gunting, Kertas dengan Convolutional Neural Network
 
 [![](https://img.shields.io/badge/Materi%20dan%20Implementasi-Disini-critical?style=for-the-badge&logo=mathworks&logoColor=FFF)](https://kevinperdana.github.io/pythondatascience/batuguntingkertas)
